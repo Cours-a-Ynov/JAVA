@@ -1,3 +1,5 @@
+package libary;
+import java.util.ArrayList;
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.TitlePaneLayout;
 
 ArrayList<Book> ListeBook = new ArrayList<Book>();
@@ -16,4 +18,8 @@ class getRegister {
 			   p1.afficher();
 			   ListeBook.add(p1);
 	}
+}
+
+class getId {
+
 }

@@ -1,4 +1,4 @@
-package triangle;
+package Triangle;
 
 public class TriangleMain {
     public static void main(String[] args) {

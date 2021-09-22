@@ -1,4 +1,4 @@
-package triangle;
+package Triangle;
 
 import java.lang.Math;
 
